@@ -1,0 +1,19 @@
+{
+  "name": "@fillika/fili-module",
+  "version": "1.0.1",
+  "description": "fili-module for frontend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fillika/fili-module"
+  },
+  "keywords": [
+    "modal",
+    "cookie"
+  ],
+  "author": "Aleksandr M.",
+  "license": "MIT"
+}
