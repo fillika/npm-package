@@ -1,5 +1,5 @@
+import {filiModule} from './project.min.js';
+
 module.exports = {
-  sayHello: function (name) {
-    console.log(`Hi! My name is ${name}`);
-  }
+  filiModule: filiModule
 }

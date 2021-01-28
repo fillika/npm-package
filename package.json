@@ -1,6 +1,6 @@
 {
-  "name": "@fillika/fili-module",
-  "version": "1.0.1",
+  "name": "fili-module",
+  "version": "1.0.3",
   "description": "fili-module for frontend",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/fillika/fili-module"
+    "url": "https://github.com/fillika/npm-package"
   },
   "keywords": [
     "modal",
